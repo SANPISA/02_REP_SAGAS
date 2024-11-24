@@ -1,11 +1,11 @@
 1	Star Wars: Episodio I - La amenaza fantasma
-2 Episodio II: El Ataque de los Clones
-3 Episodio III: La Venganza de los Sith
-4 Rogue One: Una Historia de Star Wars
-5 Episodio IV: Una Nueva Esperanza 
-6 Episodio V: El Imperio Contraataca 
-7 Episodio VI: El Retorno del Jedi
-8 Episodio VII: El Despertar de la Fuerza
-9 Episodio VIII: Los Últimos Jedi
-10 Episodio IX: El Ascenso de Skywalker 
-11 Solo: A Star Wars Story 
+2 	Star Wars: Episodio II: El Ataque de los Clones
+3 	Star Wars: Episodio III: La Venganza de los Sith
+4 	Rogue One: Una Historia de Star Wars
+5 	Star Wars: Episodio IV: Una Nueva Esperanza 
+6 	Star Wars: Episodio V: El Imperio Contraataca 
+7 	Star Wars: Episodio VI: El Retorno del Jedi
+8 	Star Wars: Episodio VII: El Despertar de la Fuerza
+9 	Star Wars: Episodio VIII: Los Últimos Jedi
+10 	Star Wars: Episodio IX: El Ascenso de Skywalker 
+11 	Solo: A Star Wars Story 
